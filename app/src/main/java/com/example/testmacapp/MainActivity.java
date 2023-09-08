@@ -16,7 +16,6 @@ public class MainActivity extends AppCompatActivity {
         int c = Integer.parseInt(String.valueOf(a+b));
         Log.d("MainActivity", String.valueOf(c));
         int d = c+5;
-        its cold out
 
     }
 }
