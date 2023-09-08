@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         int b = 10;
         int c = Integer.parseInt(String.valueOf(a+b));
         Log.d("MainActivity", String.valueOf(c));
-        Log.d("MainActivity","My Second commit");
+        int d = c+5;
 
     }
 }
