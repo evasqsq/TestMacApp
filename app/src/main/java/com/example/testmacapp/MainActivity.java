@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         int d = c+5;
         int g = d*5;
         int h = g-10;
-        Log.d("MainActivity", "Experimental branch log");
+        if (h>=g){
+            Log.d("MainActivity","h is bigger than g or equal to it ");
+        }
     }
 }
