@@ -16,6 +16,8 @@ public class MainActivity extends AppCompatActivity {
         int c = Integer.parseInt(String.valueOf(a+b));
         Log.d("MainActivity", String.valueOf(c));
         int d = c+5;
-
+        int g = d*5;
+        int h = g-10;
+        Log.d("MainActivity", "Experimental branch log");
     }
 }
