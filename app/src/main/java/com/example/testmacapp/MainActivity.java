@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         int g = d*5;
         int h = g-10;
         if (h>=g){
-            Log.d("MainActivity","WSWSWSWSWSW ");
+            Log.d("MainActivity","QOQOOQO");
         }
     }
 }
